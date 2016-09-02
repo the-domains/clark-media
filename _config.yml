@@ -1,19 +1,4 @@
-name: Clark.Media
-favicon: null
-layout_spectrum: 0.8670233823359013
 typography_spectrum: 0.11708096717484295
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.4183298877906054
   saturation: 0.1391599338967353
   rhythmicContrast: 0.7113595423288643
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8670233823359013
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Clark.Media
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Clark.Media
 purpose: []
