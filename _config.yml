@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    id: 8d9022e5-82ef-45ea-9948-ff12b481916b
+    type: content
 favicon: null
 title: Clark.Media
 description: Change Everything
